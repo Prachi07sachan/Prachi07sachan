@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prachi Sachan</h1>
+<h1 align="center">Hello 👋, I'm Prachi Sachan</h1>
 <h3 align="center">Full Stack Developer | MERN Stack | AI Enthusiast</h3>
 
 <p align="center">
@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-blue?style=flat"/>
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-purple?style=flat"/>
   <img src="https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js"/>
-  <img src="https://img.shields.io/badge/System%20Design-black?style=flat"/>
+  <img src="https://img.shields.io/badge/System%20Design-pink?style=flat"/>
   <img src="https://img.shields.io/badge/API%20Optimization-orange?style=flat"/>
   <img src="https://img.shields.io/badge/Cloud%20Deployment-9cf?style=flat"/>
 </p>
