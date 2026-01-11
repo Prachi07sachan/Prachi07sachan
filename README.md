@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js"/>
   <img src="https://img.shields.io/badge/System%20Design-pink?style=flat"/>
   <img src="https://img.shields.io/badge/API%20Optimization-orange?style=flat"/>
-  <img src="https://img.shields.io/badge/Cloud%20Deployment-9cf?style=flat"/>
+  
 </p>
 
 - 🧠 Exploring **Machine Learning & AI** for real-world applications  
