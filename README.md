@@ -112,6 +112,18 @@
 🌐 **Portfolio:** [MY--PORTFOLIO](https://github.com/Prachi07sachan/MY--PORTFOLIO)  
 📧 **Email:** [prachisachan25@gmail.com](mailto:prachisachan25@gmail.com)
 
+<p align="center">
+  <a href="https://github.com/Prachi07sachan?tab=followers">
+    <img src="https://img.shields.io/github/followers/Prachi07sachan?label=Followers&style=social" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Prachi07sachan">
+    <img src="https://img.shields.io/github/stars/Prachi07sachan?label=Stars&style=social" />
+  </a>
+</p>
+
+
+
 ---
 
 
