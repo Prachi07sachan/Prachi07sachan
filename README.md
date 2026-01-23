@@ -117,10 +117,11 @@
     <img src="https://img.shields.io/github/followers/Prachi07sachan?label=Followers&style=social" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Prachi07sachan">
-    <img src="https://img.shields.io/github/stars/Prachi07sachan?label=Stars&style=social" />
+  <a href="https://github.com/Prachi07sachan?tab=following">
+    <img src="https://img.shields.io/badge/Following-View-blue?style=social" />
   </a>
 </p>
+
 
 
 
