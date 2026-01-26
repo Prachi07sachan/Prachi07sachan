@@ -91,14 +91,6 @@
 
 ---
 
-## 🔥 Featured Projects
-- **ChatterHands** – AI-powered sign language learning platform  
-- **FoodDash AI** – Smart food delivery MERN app  
-- **Insightra** – AI-based social media content analyzer  
-- **PSITNotes** – Academic notes platform  
-- **Chrome Extensions** – YouTube Timestamp Bookmark, Cricket Score Tracker  
-
----
 
 ## 🌐 Connect With Me  
 
