@@ -29,9 +29,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prachi07sachan&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prachi07sachan&show_icons=true&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prachi07sachan&layout=compact" />
 </p>
+
 
 ------
 
