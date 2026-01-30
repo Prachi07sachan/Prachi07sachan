@@ -27,9 +27,9 @@
  ----
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Prachi07sachan&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=0)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prachi07sachan&show_icons=true&v=2)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prachi07sachan)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prachi07sachan&layout=compact&cache_seconds=0)
 
 
 ------
