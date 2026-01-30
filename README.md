@@ -27,7 +27,7 @@
  ----
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prachi07sachan&show_icons=true&v=2)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prachi07sachan)
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prachi07sachan)
 
 
