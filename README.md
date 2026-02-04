@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Prachi Sachan</h1>
-<h3 align="center">B.Tech undergraduate in Computer Science, practicing Data Structures And Algorithms , MERN STACK | AI Enthusiast</h3>
+<h3 align="center">B.Tech undergraduate in Computer Science, practicing Data Structures And Algorithms , AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Prachi07sachan&label=Profile%20Views&color=0e75b6&style=flat" />
