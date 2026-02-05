@@ -105,13 +105,15 @@
 ---
 
  ## <h2 align="center"> 📊 GitHub Activity</h2>
+<p align="center">
+  ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prachi07sachan)
+  ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prachi07sachan)
+</p>
 
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prachi07sachan)
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prachi07sachan)
 
 ---
 
-## <h2 align="center">🌐 Connect With Me/h2>
+## <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
   <a href="https://github.com/Prachi07sachan"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/></a>
