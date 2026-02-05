@@ -105,10 +105,10 @@
 ---
 
  ## <h2 align="center"> 📊 GitHub Activity</h2>
-<p align="center">
+
   ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prachi07sachan)
   ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prachi07sachan)
-</p>
+
 
 
 ---
