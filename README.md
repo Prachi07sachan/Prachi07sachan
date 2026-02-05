@@ -1,131 +1,158 @@
-<h1 align="center">Hello 👋, I'm Prachi Sachan</h1>
+<h1 align="center">Hi 👋, I'm Prachi Sachan</h1>
 <h3 align="center">B.Tech undergraduate in Computer Science, practicing Data Structures And Algorithms , AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prachi07sachan&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Prachi07sachan&label=Profile%20Views&color=7f5af0&style=flat" />
 </p>
 
 ---
 
-## 📚 Currently Learning  
-
-<p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-blue?style=flat"/>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-purple?style=flat"/>
-  <img src="https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js"/>
-  <img src="https://img.shields.io/badge/System%20Design-pink?style=flat"/>
-  <img src="https://img.shields.io/badge/API%20Optimization-orange?style=flat"/>
-  
-</p>
-
-- 🧠 Exploring **Machine Learning & AI** for real-world applications  
-- ⚙️ Building **scalable backend systems** with Node.js & Express  
-- 🗄 Improving **database performance & API efficiency**  
-- ☁️ Learning **cloud deployment (Render, Vercel)**  
-- 🧩 Strengthening **system design & DSA skills**
-
- ----
-## 📊 GitHub Stats
-
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prachi07sachan)
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prachi07sachan)
-
-
-
-------
-
-
-## 👩‍💻 Frontend  
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js"/>
-  <img src="https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3"/>
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css"/>
-  <img src="https://img.shields.io/badge/Bootstrap-purple?style=flat&logo=bootstrap"/>
-</p>
-
----
-
-## ⚙️ Backend  
-<p>
-  <img src="https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js"/>
-  <img src="https://img.shields.io/badge/Express-black?style=flat&logo=express"/>
-  <img src="https://img.shields.io/badge/MongoDB-darkgreen?style=flat&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql"/>
-</p>
-
----
-
-## 🤖 AI & Data  
-<p>
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E44AD?style=flat"/>
-  <img src="https://img.shields.io/badge/Google%20Generative%20AI-red?style=flat"/>
-  <img src="https://img.shields.io/badge/OCR-Tesseract-blue?style=flat"/>
-  <img src="https://img.shields.io/badge/pdf--parse-grey?style=flat"/>
-</p>
-
----
-
-## 🧰 Dev Tools  
-<p>
-  <img src="https://img.shields.io/badge/Git-black?style=flat&logo=git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/>
-  <img src="https://img.shields.io/badge/Postman-orange?style=flat&logo=postman"/>
-  <img src="https://img.shields.io/badge/VSCode-blue?style=flat&logo=visualstudiocode"/>
-  <img src="https://img.shields.io/badge/Render-purple?style=flat"/>
-  <img src="https://img.shields.io/badge/Vercel-black?style=flat&logo=vercel"/>
-</p>
-
----
-
-## 💻 Languages  
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript"/>
-  <img src="https://img.shields.io/badge/Java-red?style=flat&logo=java"/>
-  <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python"/>
-  <img src="https://img.shields.io/badge/SQL-lightgrey?style=flat"/>
-</p>
-
----
-
-
-## 🌐 Connect With Me  
-
-<p>
-  <a href="https://github.com/Prachi07sachan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/in/prachi-sachan-5ba852253/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"/>
-  </a>
-  <a href="https://github.com/Prachi07sachan/MY--PORTFOLIO" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=flat"/>
-  </a>
-  <a href="mailto:prachisachan25@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail"/>
-  </a>
-</p>
-
-🔗 **GitHub:** [github.com/Prachi07sachan](https://github.com/Prachi07sachan)  
-💼 **LinkedIn:** [prachi-sachan-5ba852253](https://www.linkedin.com/in/prachi-sachan-5ba852253/)  
-🌐 **Portfolio:** [MY--PORTFOLIO](https://github.com/Prachi07sachan/MY--PORTFOLIO)  
-📧 **Email:** [prachisachan25@gmail.com](mailto:prachisachan25@gmail.com)
+## 🧑‍💻 Programming Languages
 
 <p align="center">
-  <a href="https://github.com/Prachi07sachan?tab=followers">
-    <img src="https://img.shields.io/github/followers/Prachi07sachan?label=Followers&style=social" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Prachi07sachan?tab=following">
-    <img src="https://img.shields.io/badge/Following-View-blue?style=social" />
-  </a>
+  <img src="https://img.shields.io/badge/Java-orange?style=flat&logo=java"/>
+  <img src="https://img.shields.io/badge/C-blue?style=flat&logo=c"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-black?style=flat&logo=gnu-bash"/>
 </p>
 
+---
 
+## 🎨 Frontend & UI/UX
 
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react"/>
+  <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js"/>
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react"/>
+  <img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite"/>
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css"/>
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass"/>
+  <img src="https://img.shields.io/badge/Framer%20Motion-black?style=flat"/>
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat"/>
+  <img src="https://img.shields.io/badge/Three.js-black?style=flat&logo=three.js"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma"/>
+</p>
+
+---
+
+## ⚙️ Backend & Testing
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot"/>
+  <img src="https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js"/>
+  <img src="https://img.shields.io/badge/Express-black?style=flat&logo=express"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka"/>
+  <img src="https://img.shields.io/badge/WebSockets-black?style=flat"/>
+  <img src="https://img.shields.io/badge/WebRTC-black?style=flat"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws"/>
+</p>
+
+---
+
+## 🗄 Databases
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase"/>
+</p>
+
+---
+
+## 🤖 AI & LLM
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat"/>
+  <img src="https://img.shields.io/badge/Ollama-black?style=flat"/>
+  <img src="https://img.shields.io/badge/LangChain-blue?style=flat"/>
+  <img src="https://img.shields.io/badge/LangGraph-purple?style=flat"/>
+  <img src="https://img.shields.io/badge/MCP-darkgreen?style=flat"/>
+</p>
+
+---
+
+## 🔁 Version Control
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/>
+  <img src="https://img.shields.io/badge/GitKraken-179287?style=flat"/>
+  <img src="https://img.shields.io/badge/LazyGit-black?style=flat"/>
+</p>
+
+---
+
+## 🧠 Editors & IDEs
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode"/>
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-black?style=flat&logo=intellijidea"/>
+  <img src="https://img.shields.io/badge/PyCharm-black?style=flat&logo=pycharm"/>
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prachi07sachan&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prachi07sachan&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Prachi07sachan&theme=onedark&no-frame=true"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Prachi07sachan"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/></a>
+  <a href="https://www.linkedin.com/in/prachi-sachan-5ba852253/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"/></a>
+  <a href="https://github.com/Prachi07sachan/MY--PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-black?style=flat"/></a>
+  <a href="mailto:prachisachan25@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail"/></a>
+</p>
 
 ---
 
 
+<p align="center">
+  <svg width="100%" height="120" viewBox="0 0 1200 120" preserveAspectRatio="none">
+    <defs>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#7f5af0"/>
+        <stop offset="50%" stop-color="#9b7bff"/>
+        <stop offset="100%" stop-color="#7f5af0"/>
+      </linearGradient>
+    </defs>
+    <path fill="url(#grad)">
+      <animate attributeName="d" dur="8s" repeatCount="indefinite"
+        values="
+        M0,60 C150,120 350,0 600,60 850,120 1050,0 1200,60 L1200,120 L0,120 Z;
+        M0,60 C150,0 350,120 600,60 850,0 1050,120 1200,60 L1200,120 L0,120 Z;
+        M0,60 C150,120 350,0 600,60 850,120 1050,0 1200,60 L1200,120 L0,120 Z" />
+    </path>
+  </svg>
+</p>
+
+<p align="center">
+  <b style="color:#9b7bff;">Let’s connect and build something amazing together!</b>
+</p>
