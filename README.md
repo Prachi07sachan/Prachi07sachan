@@ -7,7 +7,7 @@
 
 ---
 
-## 🧑‍💻 Programming Languages
+##<h2 align="center">🧑‍💻 Programming Languages </h2>                    
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-orange?style=flat&logo=java"/>
@@ -21,7 +21,7 @@
 
 ---
 
-## 🎨 Frontend & UI/UX
+##<h2 align="center">  🎨 Frontend & UI/UX</h2>      
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react"/>
@@ -36,7 +36,7 @@
 
 ---
 
-## ⚙️ Backend & Testing
+##<h2 align="center">⚙️ Backend & Testing </h2> 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot"/>
@@ -48,7 +48,7 @@
 
 ---
 
-## 🗄 Databases
+## <h2 align="center"> 🗄 Databases</h2>                           
 
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql"/>
@@ -61,7 +61,7 @@
 
 ---
 
-## 🤖 AI & LLM
+## <h2 align="center"> 🤖 AI & LLM</h2>                 
 
 <p align="center">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat"/>
@@ -73,7 +73,7 @@
 
 ---
 
-## 🔁 Version Control
+## <h2 align="center">🔁 Version Control</h2>                   
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git"/>
@@ -84,7 +84,7 @@
 
 ---
 
-## 🧠 Editors & IDEs
+## <h2 align="center">🧠 Editors & IDEs</h2> 
 
 <p align="center">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode"/>
@@ -93,7 +93,7 @@
   <img src="https://img.shields.io/badge/PyCharm-black?style=flat&logo=pycharm"/>
 </p>
 
-## 🧰 Dev Tools
+## <h2 align="center">🧰 Dev Tools</h2>
 <p> <img src="https://img.shields.io/badge/Git-black?style=flat&logo=git"/> 
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/> 
   <img src="https://img.shields.io/badge/Postman-orange?style=flat&logo=postman"/> 
@@ -103,14 +103,14 @@
 
 ---
 
-## 📊 GitHub Activity
+ ## <h2 align="center"> 📊 GitHub Activity</h2>
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prachi07sachan)
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prachi07sachan)
 
 ---
 
-## 🌐 Connect With Me
+## <h2 align="center">🌐 Connect With Me/h2>
 
 <p align="center">
   <a href="https://github.com/Prachi07sachan"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/></a>
@@ -119,28 +119,3 @@
   <a href="mailto:prachisachan25@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail"/></a>
 </p>
 
----
-
-
-<p align="center">
-  <svg width="100%" height="120" viewBox="0 0 1200 120" preserveAspectRatio="none">
-    <defs>
-      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#7f5af0"/>
-        <stop offset="50%" stop-color="#9b7bff"/>
-        <stop offset="100%" stop-color="#7f5af0"/>
-      </linearGradient>
-    </defs>
-    <path fill="url(#grad)">
-      <animate attributeName="d" dur="8s" repeatCount="indefinite"
-        values="
-        M0,60 C150,120 350,0 600,60 850,120 1050,0 1200,60 L1200,120 L0,120 Z;
-        M0,60 C150,0 350,120 600,60 850,0 1050,120 1200,60 L1200,120 L0,120 Z;
-        M0,60 C150,120 350,0 600,60 850,120 1050,0 1200,60 L1200,120 L0,120 Z" />
-    </path>
-  </svg>
-</p>
-
-<p align="center">
-  <b style="color:#9b7bff;">Let’s connect and build something amazing together!</b>
-</p>
