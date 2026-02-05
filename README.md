@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-black?style=flat&logo=gnu-bash"/>
+
 </p>
 
 ---
@@ -30,11 +30,8 @@
   <img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite"/>
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css"/>
-  <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass"/>
-  <img src="https://img.shields.io/badge/Framer%20Motion-black?style=flat"/>
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat"/>
-  <img src="https://img.shields.io/badge/Three.js-black?style=flat&logo=three.js"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma"/>
+ 
+
 </p>
 
 ---
@@ -45,12 +42,8 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot"/>
   <img src="https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js"/>
   <img src="https://img.shields.io/badge/Express-black?style=flat&logo=express"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis"/>
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka"/>
   <img src="https://img.shields.io/badge/WebSockets-black?style=flat"/>
-  <img src="https://img.shields.io/badge/WebRTC-black?style=flat"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws"/>
+
 </p>
 
 ---
@@ -100,25 +93,20 @@
   <img src="https://img.shields.io/badge/PyCharm-black?style=flat&logo=pycharm"/>
 </p>
 
+## 🧰 Dev Tools
+<p> <img src="https://img.shields.io/badge/Git-black?style=flat&logo=git"/> 
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/> 
+  <img src="https://img.shields.io/badge/Postman-orange?style=flat&logo=postman"/> 
+  <img src="https://img.shields.io/badge/VSCode-blue?style=flat&logo=visualstudiocode"/>
+  <img src="https://img.shields.io/badge/Render-purple?style=flat"/> 
+  <img src="https://img.shields.io/badge/Vercel-black?style=flat&logo=vercel"/> </p>
+
 ---
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prachi07sachan&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prachi07sachan&theme=tokyo-night"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prachi07sachan&theme=onedark&no-frame=true"/>
-</p>
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prachi07sachan)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prachi07sachan)
 
 ---
 
