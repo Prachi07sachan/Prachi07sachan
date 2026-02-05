@@ -7,7 +7,7 @@
 
 ---
 
-##<h2 align="center">🧑‍💻 Programming Languages </h2>                    
+## <h2 align="center">🧑‍💻 Programming Languages </h2>                    
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-orange?style=flat&logo=java"/>
@@ -21,7 +21,7 @@
 
 ---
 
-##<h2 align="center">  🎨 Frontend & UI/UX</h2>      
+## <h2 align="center">  🎨 Frontend & UI/UX</h2>      
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react"/>
@@ -36,7 +36,7 @@
 
 ---
 
-##<h2 align="center">⚙️ Backend & Testing </h2> 
+## <h2 align="center">⚙️ Backend & Testing </h2> 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot"/>
@@ -94,7 +94,8 @@
 </p>
 
 ## <h2 align="center">🧰 Dev Tools</h2>
-<p> <img src="https://img.shields.io/badge/Git-black?style=flat&logo=git"/> 
+
+<p align="center"> <img src="https://img.shields.io/badge/Git-black?style=flat&logo=git"/> 
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/> 
   <img src="https://img.shields.io/badge/Postman-orange?style=flat&logo=postman"/> 
   <img src="https://img.shields.io/badge/VSCode-blue?style=flat&logo=visualstudiocode"/>
