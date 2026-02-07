@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prachi Sachan</h1>
+<h1 align="center">Hello , I'm Prachi Sachan</h1>
 <h3 align="center">B.Tech undergraduate in Computer Science, practicing Data Structures And Algorithms , AI Enthusiast</h3>
 
 <p align="center">
@@ -7,7 +7,7 @@
 
 ---
 
-## <h2 align="center">🧑‍💻 Programming Languages </h2>                    
+## <h2 align="center"> Programming Languages </h2>                    
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-orange?style=flat&logo=java"/>
@@ -21,7 +21,7 @@
 
 ---
 
-## <h2 align="center">  🎨 Frontend & UI/UX</h2>      
+## <h2 align="center">   Frontend & UI/UX</h2>      
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react"/>
@@ -36,7 +36,7 @@
 
 ---
 
-## <h2 align="center">⚙️ Backend & Testing </h2> 
+## <h2 align="center"> Backend & Testing </h2> 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot"/>
@@ -48,7 +48,7 @@
 
 ---
 
-## <h2 align="center"> 🗄 Databases</h2>                           
+## <h2 align="center">  Databases</h2>                           
 
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql"/>
@@ -61,7 +61,7 @@
 
 ---
 
-## <h2 align="center"> 🤖 AI & LLM</h2>                 
+## <h2 align="center">  AI & LLM</h2>                 
 
 <p align="center">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat"/>
@@ -73,7 +73,7 @@
 
 ---
 
-## <h2 align="center">🔁 Version Control</h2>                   
+## <h2 align="center"> Version Control</h2>                   
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git"/>
@@ -84,7 +84,7 @@
 
 ---
 
-## <h2 align="center">🧠 Editors & IDEs</h2> 
+## <h2 align="center"> Editors & IDEs</h2> 
 
 <p align="center">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode"/>
@@ -93,7 +93,7 @@
   <img src="https://img.shields.io/badge/PyCharm-black?style=flat&logo=pycharm"/>
 </p>
 
-## <h2 align="center">🧰 Dev Tools</h2>
+## <h2 align="center"> Dev Tools</h2>
 
 <p align="center"> <img src="https://img.shields.io/badge/Git-black?style=flat&logo=git"/> 
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/> 
@@ -104,7 +104,7 @@
 
 ---
 
- ## <h2 align="center"> 📊 GitHub Activity</h2>
+ ## <h2 align="center"> GitHub Activity</h2>
 
   ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prachi07sachan)
   ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prachi07sachan)
@@ -113,7 +113,7 @@
 
 ---
 
-## <h2 align="center">🌐 Connect With Me</h2>
+## <h2 align="center"> Connect With Me</h2>
 
 <p align="center">
   <a href="https://github.com/Prachi07sachan"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/></a>
