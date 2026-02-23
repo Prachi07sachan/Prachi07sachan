@@ -122,3 +122,8 @@
   <a href="mailto:prachisachan25@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail"/></a>
 </p>
 
+## Resume
+
+📄 [Resume](https://drive.google.com/file/d/1xg8X1o8Mu7QUYnT-L8NPvt-eB7e2051o/view?usp=sharing)
+
+
