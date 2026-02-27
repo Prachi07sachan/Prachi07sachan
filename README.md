@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+ 
 
 </p>
 
@@ -25,7 +25,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react"/>
-  <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js"/>
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react"/>
   <img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite"/>
@@ -51,35 +50,21 @@
 ## <h2 align="center">  Databases</h2>                           
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql"/>
+ 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase"/>
 </p>
 
 ---
 
-## <h2 align="center">  AI & LLM</h2>                 
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat"/>
-  <img src="https://img.shields.io/badge/Ollama-black?style=flat"/>
-  <img src="https://img.shields.io/badge/LangChain-blue?style=flat"/>
-  <img src="https://img.shields.io/badge/LangGraph-purple?style=flat"/>
-  <img src="https://img.shields.io/badge/MCP-darkgreen?style=flat"/>
-</p>
-
----
 
 ## <h2 align="center"> Version Control</h2>                   
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/>
-  <img src="https://img.shields.io/badge/GitKraken-179287?style=flat"/>
-  <img src="https://img.shields.io/badge/LazyGit-black?style=flat"/>
 </p>
 
 ---
