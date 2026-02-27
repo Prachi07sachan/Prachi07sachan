@@ -25,8 +25,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react"/>
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react"/>
-  <img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite"/>
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css"/>
  
