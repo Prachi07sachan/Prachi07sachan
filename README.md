@@ -10,7 +10,6 @@
 ## <h2 align="center"> Programming Languages </h2>                    
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-orange?style=flat&logo=java"/>
   <img src="https://img.shields.io/badge/C-blue?style=flat&logo=c"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B"/>
@@ -36,7 +35,7 @@
 ## <h2 align="center"> Backend & Testing </h2> 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot"/>
+  
   <img src="https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js"/>
   <img src="https://img.shields.io/badge/Express-black?style=flat&logo=express"/>
   <img src="https://img.shields.io/badge/WebSockets-black?style=flat"/>
@@ -50,7 +49,6 @@
 <p align="center">
  
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase"/>
 </p>
@@ -105,8 +103,10 @@
   <a href="mailto:prachisachan25@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail"/></a>
 </p>
 
-## Resume
+## 📄 My Resume  
 
-📄 [Resume](https://drive.google.com/file/d/1xg8X1o8Mu7QUYnT-L8NPvt-eB7e2051o/view?usp=sharing)
-
-
+<p align="center">
+  <a href="https://drive.google.com/file/d/1xg8X1o8Mu7QUYnT-L8NPvt-eB7e2051o/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Resume-Click%20Here-blue?style=for-the-badge&logo=google-drive&logoColor=white" />
+  </a>
+</p>
