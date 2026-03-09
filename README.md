@@ -69,7 +69,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode"/>
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim"/>
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-black?style=flat&logo=intellijidea"/>
   <img src="https://img.shields.io/badge/PyCharm-black?style=flat&logo=pycharm"/>
 </p>
