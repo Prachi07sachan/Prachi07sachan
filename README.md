@@ -50,7 +50,7 @@
  
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase"/>
+  
 </p>
 
 ---
@@ -102,7 +102,7 @@
   <a href="mailto:prachisachan25@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail"/></a>
 </p>
 
-## 📄 My Resume  
+## 📄 Resume  
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1xg8X1o8Mu7QUYnT-L8NPvt-eB7e2051o/view?usp=sharing" target="_blank">
