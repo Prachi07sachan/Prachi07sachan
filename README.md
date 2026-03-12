@@ -70,7 +70,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode"/>
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-black?style=flat&logo=intellijidea"/>
-  <img src="https://img.shields.io/badge/PyCharm-black?style=flat&logo=pycharm"/>
+ 
 </p>
 
 ## <h2 align="center"> Dev Tools</h2>
@@ -102,10 +102,16 @@
   <a href="mailto:prachisachan25@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail"/></a>
 </p>
 
-## 📄 Resume  
+## 📄 Resume
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1xg8X1o8Mu7QUYnT-L8NPvt-eB7e2051o/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20Resume-Click%20Here-blue?style=for-the-badge&logo=google-drive&logoColor=white" />
-  </a>
+
+<a href="https://drive.google.com/file/d/1xg8X1o8Mu7QUYnT-L8NPvt-eB7e2051o/view?usp=sharing">
+<img src="https://img.shields.io/badge/View%20Resume-Online-blue?style=for-the-badge&logo=google-drive"/>
+</a>
+
+<a href="https://drive.google.com/file/d/1xg8X1o8Mu7QUYnT-L8NPvt-eB7e2051o/view?usp=sharing">
+<img src="https://img.shields.io/badge/Download%20Resume-PDF-green?style=for-the-badge&logo=adobeacrobatreader"/>
+</a>
+
 </p>
