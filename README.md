@@ -84,7 +84,7 @@
 
 ---
 
- ## <h2 align="center"> GitHub Activity</h2>
+ ##<h2 align="center"> GitHub Activity</h2>
 
   ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prachi07sachan)
   ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prachi07sachan)
@@ -102,7 +102,7 @@
   <a href="mailto:prachisachan25@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail"/></a>
 </p>
 
-##<h2 align="center">📄  RESUME</h2>
+<h2 align="center">📄  RESUME</h2>
 
 <p align="center">
 
