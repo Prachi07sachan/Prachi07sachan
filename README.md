@@ -102,7 +102,7 @@
   <a href="mailto:prachisachan25@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail"/></a>
 </p>
 
-## 📄 Resume
+##<h2 align="center">📄  RESUME</h2>
 
 <p align="center">
 
