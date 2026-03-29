@@ -1,4 +1,4 @@
-<h1 align="center">Hello , I'm Prachi Sachan</h1>
+<h1 align="center">Hello , Myself Prachi Sachan</h1>
 <h3 align="center">B.Tech undergraduate in Computer Science, practicing Data Structures And Algorithms , AI Enthusiast</h3>
 
 <p align="center">
@@ -14,6 +14,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+
  
 
 </p>
