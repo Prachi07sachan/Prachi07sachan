@@ -1,4 +1,4 @@
-<h1 align="center">Hello , Myself Prachi Sachan</h1>
+<h1 align="center">Myself Prachi Sachan</h1>
 <h3 align="center">B.Tech undergraduate in Computer Science, practicing Data Structures And Algorithms , AI Enthusiast</h3>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 ---
 
-## <h2 align="center">   Frontend & UI/UX</h2>      
+## <h2 align="center"> Frontend & UI/UX</h2>      
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react"/>
@@ -104,7 +104,7 @@
   <a href="mailto:prachisachan25@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail"/></a>
 </p>
 
-<h2 align="center">📄  RESUME</h2>
+<h2 align="center">📄 RESUME</h2>
 
 <p align="center">
 
