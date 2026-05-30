@@ -1,4 +1,4 @@
-<h1 align="center">Myself Prachi Sachan</h1>
+<h1 align="center">I am Prachi Sachan</h1>
 <h3 align="center">B.Tech undergraduate in Computer Science, practicing Data Structures And Algorithms , AI Enthusiast</h3>
 
 <p align="center">
