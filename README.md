@@ -95,17 +95,6 @@
   </tr>
 </table>
 
-### 📈 CONTRIBUTIONS THIS MONTH
-
-<a href="https://github.com/Prachi07sachan/github-readme-activity-graph">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" 
-        srcset="https://github-readme-activity-graph.vercel.app/graph?username=Prachi07sachan&theme=nightowl&hide_border=true&bg_color=1e1e2e&color=cdd6f4&title_color=cba6f7&line=89dceb&point=b4befe&area=true&area_color=cdd6f4" />
-        
-        <img align="center" 
-        src="https://github-readme-activity-graph.vercel.app/graph?username=Prachi07sachan&theme=github-light&area=true&hide_border=true&custom_title=Past%20Months%20Activity">
-    </picture>
-</a>
 
 
 
