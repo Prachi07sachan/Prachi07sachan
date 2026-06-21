@@ -7,18 +7,14 @@
 
 ---
 
-## <h2 align="center"> Programming Languages </h2>                    
+### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C-blue?style=flat&logo=c"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,html,css,cpp,react,aws,git,github,flutter,nextjs,nodejs,mongodb,express,fastapi,docker,&theme=dark" />
+  </a>
 
- 
 
-</p>
 
 ---
 
