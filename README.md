@@ -18,69 +18,7 @@
 
 ---
 
-## <h2 align="center"> Frontend & UI/UX</h2>      
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite"/>
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css"/>
- 
-
-</p>
-
----
-
-## <h2 align="center"> Backend & Testing </h2> 
-
-<p align="center">
-  
-  <img src="https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js"/>
-  <img src="https://img.shields.io/badge/Express-black?style=flat&logo=express"/>
-  <img src="https://img.shields.io/badge/WebSockets-black?style=flat"/>
-
-</p>
-
----
-
-## <h2 align="center">  Databases</h2>                           
-
-<p align="center">
- 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb"/>
-  
-</p>
-
----
-
-
-## <h2 align="center"> Version Control</h2>                   
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/>
-</p>
-
----
-
-## <h2 align="center"> Editors & IDEs</h2> 
-
-<p align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode"/>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-black?style=flat&logo=intellijidea"/>
- 
-</p>
-
-## <h2 align="center"> Dev Tools</h2>
-
-<p align="center"> <img src="https://img.shields.io/badge/Git-black?style=flat&logo=git"/> 
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/> 
-  <img src="https://img.shields.io/badge/Postman-orange?style=flat&logo=postman"/> 
-  <img src="https://img.shields.io/badge/VSCode-blue?style=flat&logo=visualstudiocode"/>
-  <img src="https://img.shields.io/badge/Render-purple?style=flat"/> 
-  <img src="https://img.shields.io/badge/Vercel-black?style=flat&logo=vercel"/> </p>
-
----
 
 ## 📊 GitHub Analytics
 
