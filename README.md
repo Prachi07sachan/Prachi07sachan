@@ -82,10 +82,30 @@
 
 ---
 
- ## <h2 align="center"> GitHub Activity</h2>
+## 📊 GitHub Analytics
 
-  ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prachi07sachan)
-  ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prachi07sachan)
+<table>
+  <tr>
+    <td width="45%" valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prachi07sachan&theme=tokyonight&hide_border=true" width="210%" />
+    </td>
+    <td width="40%" valign="top">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prachi07sachan&layout=compact&theme=tokyonight&hide_border=true" width="180%" />
+    </td>
+  </tr>
+</table>
+
+### 📈 CONTRIBUTIONS THIS MONTH
+
+<a href="https://github.com/Prachi07sachan/github-readme-activity-graph">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" 
+        srcset="https://github-readme-activity-graph.vercel.app/graph?username=Prachi07sachan&theme=nightowl&hide_border=true&bg_color=1e1e2e&color=cdd6f4&title_color=cba6f7&line=89dceb&point=b4befe&area=true&area_color=cdd6f4" />
+        
+        <img align="center" 
+        src="https://github-readme-activity-graph.vercel.app/graph?username=Prachi07sachan&theme=github-light&area=true&hide_border=true&custom_title=Past%20Months%20Activity">
+    </picture>
+</a>
 
 
 
